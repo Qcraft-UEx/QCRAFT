@@ -1,2 +1,2 @@
-# Qcraft-Orchestrator
-The proposed work presents a comprehensive approach for quantum application orchestration (Qcraft-Orchestrator), integrating load balancing and resource allocation for efficient task execution across multiple quantum service providers.
+# The Quantum Circuit Research and Framework Toolbox (QCRAFT)
+The Quantum Circuit Research and Framework Toolbox (QCRAFT) is a set of software and resources for quantum computing based on Quantum Software Engineering developed by the Social And Pervasive Innovation Lab ([_SPILab_](https://spilab.es/)).
